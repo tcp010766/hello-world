@@ -101,13 +101,13 @@ Score each country from 1 to 10 for a new battery-cell plant serving US and EU c
 | Labour cost | 0.10 | 6 | 8 | 6 | 8 |
 | Skilled technicians | 0.15 | 8 | 6 | 7 | 5 |
 | Power cost and reliability | 0.15 | 7 | 5 | 7 | 6 |
-| Tariff and origin exposure to the US | 0.20 | ? | ? | ? | ? |
+| Tariff and origin exposure to the US | 0.20 | 6 | 4 | 5 | 6 |
 | Supplier ecosystem | 0.15 | 7 | 6 | 7 | 6 |
 | Political neutrality | 0.10 | 8 | 6 | 7 | 7 |
 | Raw materials (nickel) | 0.15 | 3 | 3 | 3 | 10 |
 
 **Tasks:**
-- Students fill in the tariff row from current US rates and compute the weighted scores.
+- The tariff row is pre-filled with illustrative scores. Students may re-score it from current US rates. Compute the weighted scores.
 - Run a **sensitivity analysis**: how much must the tariff weight rise before the ranking changes?
 - Discuss what the model leaves out (ownership rules such as FEOC, for example).
 
@@ -123,15 +123,15 @@ A battery module made in Malaysia: ex-works cost US$100 and freight US$6. Inputs
 
 ### Exercise C: Local content and the learning curve *(illustrative)*
 
-The first CKD batch at Tanjung Malim takes 40 labour-hours per vehicle. Assume an **85% learning curve**.
+The first CKD vehicle at Tanjung Malim takes 100 labour-hours. Assume a **90% learning curve**.
 - Hours for unit 1,000 and unit 10,000?
-- If the target is 15 hours per vehicle, when does the plant reach it?
-- Link the answer to CBU-exemption deadlines: when should the switch from CBU to CKD happen?
+- If the target is 30 hours per vehicle, at which unit does the plant reach it?
+- At a phase-1 rate of 20,000 vehicles a year, how many months is that? What does this say about whether learning or supplier localisation is the real constraint, and how should it shape the CBU → CKD switch before the duty exemption ends?
 
 ### Exercise D: AHTV capacity break-even *(illustrative)*
 
-The plant has fixed costs of RM1.2bn a year at 500k capacity and a contribution margin of RM6,000 per vehicle. The domestic Geely-group share is assumed at 25% of an 815k market.
-- What is the break-even volume?
+The plant has fixed costs of RM1.8bn a year at 500k capacity and a contribution margin of RM6,000 per vehicle. The domestic Geely-group share is assumed at 25% of an 815k market.
+- What is the break-even volume, and what utilisation does it imply?
 - What export volume is needed to break even, and how does that compare with 2025 exports of about 6,000?
 - Sensitivity: what happens if the domestic share falls to 18% because of the price war?
 
